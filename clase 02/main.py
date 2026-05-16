@@ -23,7 +23,7 @@ soy_yo = (nombre == "ingrid" and edad == 19)
 no_soy_yo = not (nombre == "ingrid" and edad == 19)
 talvez_soy_yo = nombre == "ingrid" or edad == 19
 
-#incremento
+#incremento33333333333
 x:int = 10
 x += 5
 print (x)
