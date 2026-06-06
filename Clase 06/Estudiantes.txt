@@ -1,0 +1,3 @@
+Nombre:  Ingrid
+Carnet: 27289
+Nota final: 9.0
