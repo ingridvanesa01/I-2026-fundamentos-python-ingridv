@@ -1,5 +1,6 @@
- inici#alizar variables
-nombre:str = "ingrid"
+ #inicializar variables
+nombre = "ingrid"
+edad = 19
 
 #solicitar al usuario su edad
 edad:int = int (input cuantos años tienes)
@@ -10,7 +11,7 @@ año_de_nacimiento:int = 2026 - edad
 #imprimir nombre edad y año de nacimiento
 print(nombre)
 print ("mi edad es:" , edad)
-print("mi año de nacimiento", año_de_naciento)
+print("mi año de nacimiento", año_de_nacimiento)
 
 # calcular mayoria de edad
 if edad >= 19:

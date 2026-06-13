@@ -1,3 +1,6 @@
 Nombre:  Ingrid
 Carnet: 27289
 Nota final: 9.0
+Nombre:  juan
+Carnet: 176152
+Nota final: 10.0
